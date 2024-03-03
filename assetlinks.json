@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smgamelover.word.fetch",
+      "sha256_cert_fingerprints": [
+        "55:96:12:4D:A6:95:9C:58:5F:EF:CA:6A:93:05:72:22:DA:67:37:BC:42:8C:88:05:47:E2:48:6D:0B:FF:47:B0"
+      ]
+    }
+  }
+]
